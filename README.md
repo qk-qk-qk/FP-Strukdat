@@ -1,6 +1,6 @@
 <h1 align="center">Collision Simulator</h1>
 
-Program ini merupakan simulasi tabrakan antar objek untuk memenuhi Final Project mata kuliah Struktur Data dan Algotima (Data Structure and Algorithm), yang membandingkan penggunaan dua algoritma, yaitu Brute Force dan Quadtree
+Program ini merupakan simulasi tabrakan antar objek untuk memenuhi Final Project mata kuliah Struktur Data dan Algotima (Data Structure and Algorithm), yang membandingkan penggunaan dua algoritma, yaitu Brute Force dan Quadtree. Bahasa keseluruhan menggunakan C++ dan library raylib.
 
 ## Deskripsi Algoritma
 1. Brute Force:
