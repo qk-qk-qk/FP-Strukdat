@@ -1,5 +1,4 @@
 # Collision Simulation
 
-Simulasi tabrakan bola 2D menggunakan C++ dan Raylib.
-Membandingkan algoritma Brute Force dan Quadtree.
+Ini merupakan simulasi tabrakan antar objek untuk memenuhi Final Project mata kuliah Struktur Data dan Algotima (Data Structure and Algorithm), yang membandingkan penggunakan dua algoritma, yaitu Brute Force dan Quadtree
 
